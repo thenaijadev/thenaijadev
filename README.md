@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thenaijadev
-- 👀 I’m interested in ...Flutter and Nodejs.
+- 👀 I’m interested in ...Flutter.
 - 🌱 I’m currently learning ...Nodejs
 - 💞️ I’m looking to collaborate to bring flutter projects to life.
 - 📫 How to reach me thenaijadev@gmail.com ,+2349014138731, https://www.linkedin.com/in/okwor-chukwuemeka-01568b20b/
